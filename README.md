@@ -5,6 +5,6 @@
 - 📫 How to reach me karpovfriend1997@gmail.com
 
 <!---
-Bulldozer777/Bulldozer777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eduard.Karpov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
