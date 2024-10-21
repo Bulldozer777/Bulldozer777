@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bulldozer777
+- 👋 Hi, I’m Eduard.Karpov
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning ASP.NET , Windows Form, Entity Framework , ASP.NET MVC 5
 - 💞️ I’m looking to collaborate on karpovfriend1997@gmail.com 
